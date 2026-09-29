@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 79a4fbc
+_src_path: gh:piergiorgio1999/agent-template
+comment_language: it
+github_owner: piergiorgio1999
+integration_mode: standalone
+project_name: yooz
+single_owner: true
+use_go: true
+use_python: true
+use_rust: true
+use_shell: true
+use_swift: true
+use_typescript: true
